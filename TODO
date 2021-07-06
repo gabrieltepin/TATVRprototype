@@ -1,0 +1,15 @@
+TASK LIST
+
+
+- Melhorar o terreno
+    https://www.youtube.com/watch?v=MWQv2Bagwgk&ab_channel=Brackeys
+
+- Ajustar a gravidade do tiro:
+    i) tem esse tutorial com raycast iterativo para ajustar gravidade em frames
+    https://www.youtube.com/watch?v=d7pwmO6IS2I&ab_channel=WorldofZero
+    ii) tem esse outro tuto em que existe uma opcao de ajustar gravidade (não sei se é a gravidade do projetil ou do efeito de impacto)
+    https://www.youtube.com/watch?v=xenW67bXTgM&ab_channel=GabrielAguiarProd.
+
+- Ajustar o alvo para ser instanciado no cenario e poder ser atingido pelo tiro (acho que canvas nao é tratado como GameObject aí o Raycast atravessa)
+
+- Escrever um Readme.md na moral?
